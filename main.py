@@ -36,5 +36,5 @@ def seconds_until_end_of_year_2():
   return time_delta.total_seconds()
 
 
-seconds = seconds_until_end_of_year2()
+seconds = seconds_until_end_of_year_2()
 print(f"There are {seconds} seconds remaining until the end of the year.")
